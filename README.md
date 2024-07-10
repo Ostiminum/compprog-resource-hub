@@ -28,6 +28,7 @@ For learning the basics of these languages, some stuff you can check are:
 - [W3Schools](https://www.w3schools.com/) for any language really (my go-to place)
 - [FreeCodeCamp.org's videos](https://www.youtube.com/@freecodecamp) for any language as well + if you prefer video form
 - [LearnCPP](https://www.learncpp.com/) for C++
+- [NOI.PH Python Tutorials](https://noi.ph/python-tutorials/) for Python 
 
 For C++ stuff for competitive programming, you can check
 - Chapter 1 Section 1 and Section 4 of Laaksonen's book, [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf). 
