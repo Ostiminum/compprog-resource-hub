@@ -55,4 +55,23 @@ For language-specific documentation websites:
 Java also has JavaDoc, which you can directly read through "Javadoc" tab of Eclipse. I'm not sure how to directly access it in NetBeans, sadly.
 
 ## Text Editors/IDEs
-WIP
+Similar to programming languages, your choice of text editor/IDE is up to your preferences. Unlike actual development projects, competitive programming is not that demanding for what tools you need. With that, I will mostly be recommending light-weight text editors, but I will also list some IDEs here and there. 
+
+Here are some editors that I have used:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Geany](https://www.geany.org/)
+- [IDLE](https://www.python.org/downloads/)
+- [DevC++](https://www.bloodshed.net/)
+- [NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [Eclipse](https://eclipseide.org/)
+- [Vim](https://www.vim.org/)/[Neovim](https://github.com/neovim/neovim)
+- [gVim](https://www.vim.org/)
+
+The following editors are editors that I haven't tried yet, but will include in here to let you explore them and see if it's for you:
+- [PyCharm](https://www.jetbrains.com/pycharm/download/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Code::Blocks](https://www.codeblocks.org/)
+- [Kate](https://kate-editor.org/)
+
+I strongly wouldn't recommend using an online editor, as it can make your code prone to leaks. But if you really do need one, there's [CodeChef's Online Compiler](https://www.codechef.com/ide) and [Codeforces' Custom Test](https://codeforces.com/problemset/customtest) (requires Codeforces account).
