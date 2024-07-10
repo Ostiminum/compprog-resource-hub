@@ -1,5 +1,9 @@
 # Reimu's Competitive Programming Resource Shrine
-This is a collection of various resources that I found while training for competitive programming that I want to share. Please do keep in mind that this resource hub is primarily targeted for Filipino high school students (especially to my fellow PSHS-SRC peeps) in preparation for programming competitions such as the National Olympiad of Informatics Philippines (NOI.PH). There may be specific resources that may not be less applicable or useful for your situation, however you can still use this resource hub as you may like. If you believe there's something that you wish to be included here, feel free to share it to me or make a pull request for your edits. I would really appreciate your help! You can start by browsing the different topics that will be covered here in the Table of Contents below.
+This is a collection of various resources that I found while training for competitive programming that I want to share. Please do keep in mind that this resource hub is primarily targeted for Filipino high school students (especially to my fellow PSHS-SRC peeps) in preparation for programming competitions such as the National Olympiad of Informatics Philippines (NOI.PH). There may be specific resources that may not be less applicable or useful for your situation, however you can still use this resource hub as you may like.
+
+If you believe there's something that you wish to be included here, feel free to share it to me or make a pull request for your edits. I would really appreciate your help!
+
+You can start by browsing the different topics that will be covered here in the Table of Contents below.
 
 ## Table of Contents
 - [Programming Languages](#programming-languages)
@@ -44,7 +48,7 @@ For offline documentation, you have:
 
 For language-specific documentation websites:
 - [cppreference.com](https://en.cppreference.com/w/) - C++
-- [cplusplus.com](https://cplusplus.com/doc/) - C++
+- [cplusplus.com](https://cplusplus.com/reference/) - C++
 - [Official Python documentation](https://docs.python.org/) - Python
 - [Oracle's Java documentation](https://docs.oracle.com/javase/8/docs/api/overview-summary.html) - Java
 
