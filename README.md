@@ -4,7 +4,7 @@ This is a collection of various resources that I found while training for compet
 ## Table of Contents
 - [Programming Languages](#programming-languages)
 - [Language Documentation](#language-documentation)
-- Text Editors/IDEs
+- [Text Editors/IDEs](#text-editorsides)
 - Problem Sets/Archives
 - Recommended Beginner Contests
 - Recommended Youtube Channels/Series
@@ -37,4 +37,18 @@ For C++ stuff for competitive programming, you can check
 To be honest, I learned more from looking at other people's code. One place of this is in the code snippets of contest editorials (like in [Codeforces](https://codeforces.com/)), but you can always check the editorials prepared in any contest that you participated in (if there are any). Even if you solved a problem by yourself, I'd still recommend checking these out for certain techniques.
 
 ## Language Documentation
+Language documentation is really good if you want to learn more about the various libraries/modules, functions, types, and other technicalities of a language, especially if you're unsure of a certain functionality of what you're about to use. It's usually best to use official documentation for your languages.
+
+For offline documentation, you have:
+- [Zeal](https://github.com/zealdocs/zeal) - a really convenient documentation software for a lot of languages.
+
+For language-specific documentation websites:
+- [cppreference.com](https://en.cppreference.com/w/) - C++
+- [cplusplus.com](https://cplusplus.com/doc/) - C++
+- [Official Python documentation](https://docs.python.org/) - Python
+- [Oracle's Java documentation](https://docs.oracle.com/javase/8/docs/api/overview-summary.html) - Java
+
+Java also has JavaDoc, which you can directly read through "Javadoc" tab of Eclipse. I'm not sure how to directly access it in NetBeans, sadly.
+
+## Text Editors/IDEs
 WIP
