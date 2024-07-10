@@ -9,7 +9,7 @@ You can start by browsing the different topics that will be covered here in the 
 - [Programming Languages](#programming-languages)
 - [Language Documentation](#language-documentation)
 - [Text Editors/IDEs](#text-editorsides)
-- Problem Sets/Archives
+- [Problem Sets/Archives](#problem-setsarchives)
 - Recommended Beginner Contests
 - Recommended Youtube Channels/Series
 - Resource Hubs/Websites
@@ -57,6 +57,8 @@ Java also has JavaDoc, which you can directly read through "Javadoc" tab of Ecli
 ## Text Editors/IDEs
 Similar to programming languages, your choice of text editor/IDE is up to your preferences. Unlike actual development projects, competitive programming is not that demanding for what tools you need. With that, I will mostly be recommending light-weight text editors, but I will also list some IDEs here and there. 
 
+> TODO: add descriptions zzz
+
 Here are some editors that I have used:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
@@ -75,3 +77,5 @@ The following editors are editors that I haven't tried yet, but will include in 
 - [Kate](https://kate-editor.org/)
 
 I strongly wouldn't recommend using an online editor, as it can make your code prone to leaks. But if you really do need one, there's [CodeChef's Online Compiler](https://www.codechef.com/ide) and [Codeforces' Custom Test](https://codeforces.com/problemset/customtest) (requires Codeforces account).
+
+## Problem Sets/Archives
