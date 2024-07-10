@@ -10,7 +10,7 @@ You can start by browsing the different topics that will be covered here in the 
 - [Language Documentation](#language-documentation)
 - [Text Editors/IDEs](#text-editorsides)
 - [Problem Sets/Archives](#problem-setsarchives)
-- Recommended Beginner Contests
+- [Recommended Beginner Contests](#recommended-beginner-contests)
 - Recommended Youtube Channels/Series
 - Resource Hubs/Websites
 - Books/Readings
@@ -91,3 +91,21 @@ The following are editors and IDEs that I haven't tried yet, but will include in
 I strongly wouldn't recommend using an online editor, as it can make your code prone to leaks. But if you really do need one, there's [CodeChef's Online Compiler](https://www.codechef.com/ide) and [Codeforces' Custom Test](https://codeforces.com/problemset/customtest) (requires Codeforces account).
 
 ## Problem Sets/Archives
+These are some websites where you can get problems to solve:
+1. [Codeforces](https://codeforces.com)
+2. [Atcoder](https://atcoder.jp)
+3. [CSES's Problem Set](https://cses.fi/problemset)
+4. [oj.uz](https://oj.uz)
+5. [USACO Guide's Problems](https://usaco.guide/problems/)
+6. [Kattis](https://open.kattis.com)
+7. [NOI.PH Problem Archive](https://noi.ph/elims-finals-archive/)
+8. [CodeChef](https://www.codechef.com/)
+9. [Library-Checker](https://judge.yosupo.jp/)
+10. [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
+11. [DMOJ](https://dmoj.ca/)
+11. [LeetCode](https://leetcode.com/)
+
+> TODO: add description for each website zzz
+
+## Recommended Beginner Contests
+WIP :p
