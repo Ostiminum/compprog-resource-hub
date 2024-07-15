@@ -10,7 +10,8 @@ You can start by browsing the different topics that will be covered here in the 
 - [Language Documentation](#language-documentation)
 - [Text Editors/IDEs](#text-editorsides)
 - [Problem Sets/Archives](#problem-setsarchives)
-- [Recommended Beginner Contests](#recommended-beginner-contests)
+- [Recommended Contests](#recommended-contests)
+- [Competitions in PH](#competitions-in-ph)
 - Recommended Youtube Channels/Series
 - Resource Hubs/Websites
 - Books/Readings
@@ -92,20 +93,41 @@ I strongly wouldn't recommend using an online editor, as it can make your code p
 
 ## Problem Sets/Archives
 These are some websites where you can get problems to solve:
-1. [Codeforces](https://codeforces.com)
-2. [Atcoder](https://atcoder.jp)
-3. [CSES's Problem Set](https://cses.fi/problemset)
-4. [oj.uz](https://oj.uz)
-5. [USACO Guide's Problems](https://usaco.guide/problems/)
-6. [Kattis](https://open.kattis.com)
-7. [NOI.PH Problem Archive](https://noi.ph/elims-finals-archive/)
-8. [CodeChef](https://www.codechef.com/)
-9. [Library-Checker](https://judge.yosupo.jp/)
-10. [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
-11. [DMOJ](https://dmoj.ca/)
-11. [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com)
+    - One of the (if not) biggest platforms for competitive programming out there. It contains a lot of problems, and also features
+- [Atcoder](https://atcoder.jp)
+- [CSES's Problem Set](https://cses.fi/problemset)
+- [oj.uz](https://oj.uz)
+- [USACO Guide's Problems](https://usaco.guide/problems/)
+- [Kattis](https://open.kattis.com)
+    - contains ICPC problems
+- [NOI.PH Problem Archive](https://noi.ph/elims-finals-archive/)
+- [CodeChef](https://www.codechef.com/)
+- [Library-Checker](https://judge.yosupo.jp/)
+- [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
+- [DMOJ](https://dmoj.ca/)
+- [LeetCode](https://leetcode.com/)
 
 > TODO: add description for each website zzz
 
-## Recommended Beginner Contests
-WIP :p
+## Recommended Contests
+If you're new to competetive programming, here are some contests that I recommend that will give you a good place to start learning how it works and building your knowledge and skills as a beginner. There are also some that I believe are good if you want to practice for NOI.PH. 
+- [Abakoda Short Rounds](https://noi.ph/abakoda-2023/)
+- [Abakoda Long Contests](https://noi.ph/abakoda-2023/)
+- [Atcoder Beginner Contests (ABC)](https://atcoder.jp/contests/)
+- [Codeforces Div 2-4 Contests](https://codeforces.com/contests?complete=true)
+- [NOI.PH Contests Archive](https://noi.ph/elims-finals-archive/)
+- [UP Algolympic Elimination Rounds](https://codeforces.com/group/fDKsZH3HKS/contests)
+- [USACO Guide Contests](https://joincpi.org/contests)
+- [USACO Contest Archive](https://usaco.org/index.php?page=contests)
+
+## Competitions in PH
+Here are some competitions currently or previously hosted in the Philippines that you can join or check for practice. Note that I am a highschooler and are not too familiar with the collegiate scene. And so, I will primarily be including those present for high schoolers.
+- [National Olympiad in Informatics - Philippines (NOI.PH)](https://noi.ph)
+- [Ateneo de Manila University DISCS Programming Open (PrO)](https://www.facebook.com/admudiscs)
+- [Abakoda Short and Long Contests](https://noi.ph/abakoda-2023/)
+- [Tool-Assisted Mathematics (TAMa)](https://noi.ph/tama-2023/)
+- [University of the Philippines' Algoylympics Series](https://algolympics.upacm.net/2024/)
+- [Pisay Competitive Programming Competition](https://www.facebook.com/share/p/qnLQzRiFNmembLHb/)
+- [2021 Ateneo de Manila Senior High School Dagitab Programming Contest](https://codeforces.com/contests/102911)
+- [ICPC Asia-Manila Regional Contests](https://codeforces.com/gym/104118)
