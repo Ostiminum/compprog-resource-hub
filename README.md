@@ -12,8 +12,8 @@ You can start by browsing the different topics that will be covered here in the 
 - [Problem Sets/Archives](#problem-setsarchives)
 - [Recommended Contests](#recommended-contests)
 - [Competitions in PH](#competitions-in-ph)
-- Recommended Youtube Channels/Series
 - Resource Hubs/Websites
+- [YouTube Channels/Series](#youtube-channelsseries)
 - Books/Readings
 - Math Resources
 - Sources for Advices/Tips
@@ -94,7 +94,7 @@ I strongly wouldn't recommend using an online editor, as it can make your code p
 ## Problem Sets/Archives
 These are some websites where you can get problems to solve:
 - [Codeforces](https://codeforces.com)
-    - One of the (if not) biggest platforms for competitive programming out there. It contains a lot of problems, and also features
+    - One of the (if not) biggest platforms for competitive programming out there. It contains a lot of problems, and also features 
 - [Atcoder](https://atcoder.jp)
 - [CSES's Problem Set](https://cses.fi/problemset)
 - [oj.uz](https://oj.uz)
@@ -111,7 +111,7 @@ These are some websites where you can get problems to solve:
 > TODO: add description for each website zzz
 
 ## Recommended Contests
-If you're new to competetive programming, here are some contests that I recommend that will give you a good place to start learning how it works and building your knowledge and skills as a beginner. There are also some that I believe are good if you want to practice for NOI.PH. 
+If you're new to competitive programming, here are some contests that I recommend that will give you a good place to start learning how it works and building your knowledge and skills as a beginner. There are also some that I believe are good if you want to practice for NOI.PH. 
 - [Abakoda Short Rounds](https://noi.ph/abakoda-2023/)
 - [Abakoda Long Contests](https://noi.ph/abakoda-2023/)
 - [Atcoder Beginner Contests (ABC)](https://atcoder.jp/contests/)
@@ -131,3 +131,15 @@ Here are some competitions currently or previously hosted in the Philippines tha
 - [Pisay Competitive Programming Competition](https://www.facebook.com/share/p/qnLQzRiFNmembLHb/)
 - [2021 Ateneo de Manila Senior High School Dagitab Programming Contest](https://codeforces.com/contests/102911)
 - [ICPC Asia-Manila Regional Contests](https://codeforces.com/gym/104118)
+
+## YouTube Channels/Series
+The following are YouTube channels/series that you can watch to learn more about various data structures, algorithms, techniques, and tips in video form. 
+- [Errichto Algorithms](https://www.youtube.com/@Errichto)
+- [Colin Galen](https://www.youtube.com/@ColinGalen)
+- [Algorithms Live!](https://www.youtube.com/@AlgorithmsLive)
+- [SecondThread's AlgorithmsThread](https://youtube.com/playlist?list=PLZU0kmvryb_HZpDW2yfn-H-RxAu_ts6xq&si=nXJkRrwicYJpxqHb)
+- [MIT OpenCourseWare's Introduction to Algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&si=Nx6prJRjOeh79Yc-)
+- [WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)
+- [Abdul Bari](https://www.youtube.com/@abdul_bari)
+- [CS Dojo's Data Stuctures and Algorithms videos](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&si=jGWG_EcaIksHj_CP)
+- [Reducible](https://www.youtube.com/@Reducible)
