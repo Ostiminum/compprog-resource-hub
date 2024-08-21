@@ -12,7 +12,7 @@ You can start by browsing the different topics that will be covered here in the 
 - [Problem Sets/Archives](#problem-setsarchives)
 - [Recommended Contests](#recommended-contests)
 - [Competitions in PH](#competitions-in-ph)
-- Resource Hubs/Websites
+- [Resource Hubs/Websites](#resource-hubswebsites)
 - [YouTube Channels/Series](#youtube-channelsseries)
 - Books/Readings
 - Math Resources
