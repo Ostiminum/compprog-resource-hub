@@ -94,7 +94,6 @@ I strongly wouldn't recommend using an online editor, as it can make your code p
 ## Problem Sets/Archives
 These are some websites where you can get problems to solve:
 - [Codeforces](https://codeforces.com)
-    - One of the (if not) biggest platforms for competitive programming out there. It contains a lot of problems, and also features 
 - [Atcoder](https://atcoder.jp)
 - [CSES's Problem Set](https://cses.fi/problemset)
 - [oj.uz](https://oj.uz)
@@ -106,9 +105,10 @@ These are some websites where you can get problems to solve:
 - [Library-Checker](https://judge.yosupo.jp/)
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
 - [DMOJ](https://dmoj.ca/)
+- [TLX](https://tlx.toki.id/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Online Judge](https://onlinejudge.org/)
 - [LeetCode](https://leetcode.com/)
-
-> TODO: add description for each website zzz
 
 ## Recommended Contests
 If you're new to competitive programming, here are some contests that I recommend that will give you a good place to start learning how it works and building your knowledge and skills as a beginner. There are also some that I believe are good if you want to practice for NOI.PH. 
@@ -131,6 +131,7 @@ Here are some competitions currently or previously hosted in the Philippines tha
 - [Pisay Competitive Programming Competition](https://www.facebook.com/share/p/qnLQzRiFNmembLHb/)
 - [2021 Ateneo de Manila Senior High School Dagitab Programming Contest](https://codeforces.com/contests/102911)
 - [ICPC Asia-Manila Regional Contests](https://codeforces.com/gym/104118)
+
 
 ## YouTube Channels/Series
 The following are YouTube channels/series that you can watch to learn more about various data structures, algorithms, techniques, and tips in video form. 
