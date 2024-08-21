@@ -14,10 +14,10 @@ You can start by browsing the different topics that will be covered here in the 
 - [Competitions in PH](#competitions-in-ph)
 - [Resource Hubs/Websites](#resource-hubswebsites)
 - [YouTube Channels/Series](#youtube-channelsseries)
-- Books/Readings
-- Math Resources
-- Sources for Advices/Tips
-- Miscellaneous
+- [Books/Readings](#booksreadings)
+- [Math Resources](#math-resources)
+- [Sources for Advices/Tips](#source-for-advicestips)
+- [Miscellaneous](#miscellaneous)
 
 ## Programming Languages
 To be honest, you can use any language for competitive programming, as long as it is supported to the contest that you are participating. In other words, your choice of programming language is up to your preferences. However, I'd recommend to learn the following languages due to the amount of support in contests and certain reasons.
@@ -153,3 +153,15 @@ The following are YouTube channels/series that you can watch to learn more about
 - [Abdul Bari](https://www.youtube.com/@abdul_bari)
 - [CS Dojo's Data Stuctures and Algorithms videos](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&si=jGWG_EcaIksHj_CP)
 - [Reducible](https://www.youtube.com/@Reducible)
+
+## Books/Readings
+WIP
+
+## Math Resources
+WIP
+
+## Source for Advices/Tips
+WIP
+
+## Miscellaneous
+WIP
