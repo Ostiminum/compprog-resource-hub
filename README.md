@@ -132,6 +132,14 @@ Here are some competitions currently or previously hosted in the Philippines tha
 - [2021 Ateneo de Manila Senior High School Dagitab Programming Contest](https://codeforces.com/contests/102911)
 - [ICPC Asia-Manila Regional Contests](https://codeforces.com/gym/104118)
 
+## Resource Hubs/Websites
+- [USACO Guide](https://usaco.guide/)
+- [CP-Algorithms](https://cp-algorithms.com/)
+- [NOI.PH](https://noi.ph/prepare/)
+- [Codeforces Catalog and Blogs](https://codeforces.com/catalog)
+- [TopCoder Thrive](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+
+> TODO: add more entries zzz
 
 ## YouTube Channels/Series
 The following are YouTube channels/series that you can watch to learn more about various data structures, algorithms, techniques, and tips in video form. 
