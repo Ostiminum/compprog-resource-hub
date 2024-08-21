@@ -106,6 +106,7 @@ These are some websites where you can get problems to solve:
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
 - [DMOJ](https://dmoj.ca/)
 - [TLX](https://tlx.toki.id/)
+- [Project Euler](https://projecteuler.net/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Online Judge](https://onlinejudge.org/)
 - [LeetCode](https://leetcode.com/)
